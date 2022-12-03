@@ -1,0 +1,12 @@
+.card-container{
+    background-color: #40bde7cd;
+    padding: 3px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.card-container p{
+    display: flex;
+    justify-content: space-evenly;
+    color: #256D85;
+    font-weight: 700;
+}

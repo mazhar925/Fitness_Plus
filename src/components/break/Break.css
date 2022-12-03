@@ -1,0 +1,19 @@
+.break{
+    margin-top: 25px;
+}
+.break-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn-break{
+    border-radius: 100px;
+    background-color: #50aece;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    padding: 5px;
+}
+.btn-break:hover{
+    background-color: #256D85;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1wes1",
+        "name": "Push Ups",
+        "age": "20-25",
+        "time": "30",
+        "img": "https://phantom-marca.unidadeditorial.es/efa9740df47cff7f9466ea78fd720074/crop/0x93/899x599/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/19/16426036798831.jpg",
+        "description": "The push-up is a common calisthenics exercise beginning from the prone position."
+    },
+    {
+        "_id": "1wes2",
+        "name": "Sit Ups",
+        "age": "20-25",
+        "time": "20",
+        "img": "https://breakingmuscle.com/wp-content/uploads/2022/04/shutterstock_609082940-1.jpg",
+        "description": "The push-up is a common calisthenics exercise beginning from the prone position."
+    },
+    {
+        "_id": "1wes3",
+        "name": "Squats",
+        "age": "20-25",
+        "time": "50",
+        "img": "https://marathonhandbook.com/wp-content/uploads/2022/05/How-Many-Squats-Should-I-Do-A-Day-2.jpg",
+        "description": "It makes your glutes strong and burns side and thigh fat."
+    },
+    {
+        "_id": "1wes4",
+        "name": "Leg lifts",
+        "age": "20-25",
+        "time": "40",
+        "img": "https://cdn.mos.cms.futurecdn.net/8pqYVQDnmf5ZEAY6gorthj-320-80.jpg",
+        "description": "This exercise helps build the core and calf muscles."
+    },
+    {
+        "_id": "1wes5",
+        "name": "Side bends",
+        "age": "20-25",
+        "time": "35",
+        "img": "https://st3.depositphotos.com/13768208/33139/i/600/depositphotos_331396816-stock-photo-african-cheerful-sportsman-doing-side.jpg",
+        "description": "It balances your entire body and strengthens and brings flexibility to your spine."
+    },
+    {
+        "_id": "1wes6",
+        "name": "Plank",
+        "age": "20-25",
+        "time": "25",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/hdm119918mh15842-1545237096.png",
+        "description": "It’s an abdominal and core exercise, also known as Hover exercise or Front Plank. Planks make your core strong and stable."
+    }
+]
